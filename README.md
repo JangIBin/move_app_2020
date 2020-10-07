@@ -2,6 +2,12 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 10월 07일
+> 1. PropTypes를 사용하여 입력값 들의 타입 정의
+> 2. State를 사용하여 동적인 데이터를 다를 수 있게 학습
+> 3. State에 있는 값을 바꿀 때 this.setState를 사용한다.
+> 4. onClick()는 render 함수의 이벤트처리 함수 중 하나이다.
+
 ## 09월 25일
 > 1. array.map을 사용하여 배열 출력학습.
 > 2. 동적 컴포넌트를 생성했다.
