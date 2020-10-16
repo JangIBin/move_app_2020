@@ -2,6 +2,12 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 10월 16일
+> 1. constructor() 함수를 사용한다.
+> 2. componentDidMount(), componentDidUpdate(), componentWillUnmount() 학습
+> 3. axios를 사용, 학습
+> 4. async await를 사용하여 시간이 필요하다는 것을 말린다.
+
 ## 10월 07일
 > 1. PropTypes를 사용하여 입력값 들의 타입 정의
 > 2. State를 사용하여 동적인 데이터를 다를 수 있게 학습
