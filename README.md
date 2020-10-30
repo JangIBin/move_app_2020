@@ -2,6 +2,12 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 10월 30일
+> 1. 객체이 있는 키에 접근하여 키값을 추출
+> 2. 구조 분해 할당을 사용하여 더 효율적으로 키값 추출
+> 3. state에 데이터를 저장하는 법 학습
+> 4. isloading를 false로 업데이트하여 로딩이 끝나면 state값 출력
+
 ## 10월 16일
 > 1. constructor() 함수를 사용한다.
 > 2. componentDidMount(), componentDidUpdate(), componentWillUnmount() 학습
