@@ -2,6 +2,10 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 11월 06일 
+> 1. React는 클래스를 선언할 떄 className으로 선언
+> 2. propTypes에서 배열을 불러올 때 arrayOf사용
+
 ## 10월 30일
 > 1. 객체이 있는 키에 접근하여 키값을 추출
 > 2. 구조 분해 할당을 사용하여 더 효율적으로 키값 추출
