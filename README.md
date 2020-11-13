@@ -2,6 +2,11 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 11월 13일
+> 1. css파일을 수정하여 영화 앱 스타일링
+> 2. react-router-dom을 설치하고 프로젝트 폴더 정리
+> 3. 라우터는 사용자가 입력한 URL을 통해 특정 컴포넌트를 불러주는 역할
+
 ## 11월 06일 
 > 1. React는 클래스를 선언할 떄 className으로 선언
 > 2. propTypes에서 배열을 불러올 때 arrayOf사용
