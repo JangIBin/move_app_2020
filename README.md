@@ -2,6 +2,11 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 11월 20일
+> 1. route props를 이용해 영화 카드를 누르면 상세 정보를 보여주는 기능을 만들어 본다.
+> 2. 리다이렉트 기능을 사용하기 위해서는 route props의 history 키를 활용해야 한다.
+> 3. Git에 영화 앱을 배포한다.
+
 ## 11월 13일
 > 1. css파일을 수정하여 영화 앱 스타일링
 > 2. react-router-dom을 설치하고 프로젝트 폴더 정리
