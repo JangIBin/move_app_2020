@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JangIBin/movie_app_2020/static/css/main.989edf04.chunk.css",
+    "main.js": "/JangIBin/movie_app_2020/static/js/main.842476d5.chunk.js",
+    "main.js.map": "/JangIBin/movie_app_2020/static/js/main.842476d5.chunk.js.map",
+    "runtime-main.js": "/JangIBin/movie_app_2020/static/js/runtime-main.d8e5be6f.js",
+    "runtime-main.js.map": "/JangIBin/movie_app_2020/static/js/runtime-main.d8e5be6f.js.map",
+    "static/js/2.ad030fd9.chunk.js": "/JangIBin/movie_app_2020/static/js/2.ad030fd9.chunk.js",
+    "static/js/2.ad030fd9.chunk.js.map": "/JangIBin/movie_app_2020/static/js/2.ad030fd9.chunk.js.map",
+    "index.html": "/JangIBin/movie_app_2020/index.html",
+    "precache-manifest.5cf747b7656d490fa9e1dc0af7aeb74d.js": "/JangIBin/movie_app_2020/precache-manifest.5cf747b7656d490fa9e1dc0af7aeb74d.js",
+    "service-worker.js": "/JangIBin/movie_app_2020/service-worker.js",
+    "static/css/main.989edf04.chunk.css.map": "/JangIBin/movie_app_2020/static/css/main.989edf04.chunk.css.map",
+    "static/js/2.ad030fd9.chunk.js.LICENSE.txt": "/JangIBin/movie_app_2020/static/js/2.ad030fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e5be6f.js",
+    "static/js/2.ad030fd9.chunk.js",
+    "static/css/main.989edf04.chunk.css",
+    "static/js/main.842476d5.chunk.js"
+  ]
+}
