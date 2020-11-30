@@ -2,6 +2,11 @@
 ## Movie_App_2020
 React Js Fundamentals Course 2020
 
+## 11월 27일
+> 1. CDN으로 react를 실행
+> 2. Interval를 샤용하여 타이머 만들기
+> 3. componentDidMount, componentDidUpdate, componentWillUnmount 사용
+
 ## 11월 20일
 > 1. route props를 이용해 영화 카드를 누르면 상세 정보를 보여주는 기능을 만들어 본다.
 > 2. 리다이렉트 기능을 사용하기 위해서는 route props의 history 키를 활용해야 한다.
